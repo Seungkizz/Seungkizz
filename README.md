@@ -1,5 +1,11 @@
 
-<div align=center><h1>Hello, I'm Seung Ki ✌️</h1></div>
+<div align=center>
+ <h1>Hello, I'm Seung Ki ✌️</h1>
+</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/130020647/261239375-99eec636-6afe-478e-9c03-0228f5453231.jpg" width="80%" >
+
+</p>
 
  <h3 align=center> 🔥 My Skill 🔥</h3>
 <div align=center>
