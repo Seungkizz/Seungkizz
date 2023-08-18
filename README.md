@@ -3,11 +3,11 @@
  <h1>Hello, I'm Seung Ki ✌️</h1>
 </div>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/130020647/261239375-99eec636-6afe-478e-9c03-0228f5453231.jpg" width="80%" >
-
+ <img src="https://user-images.githubusercontent.com/130020647/261239375-99eec636-6afe-478e-9c03-0228f5453231.jpg" width="80%" >
 </p>
 
- <h3 align=center> 🔥 My Skill 🔥</h3>
+<h3 align=center> 🔥 My Skill 🔥</h3>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Seungkizz&label=Profile%20views&color=0e75b6&style=flat" alt="Seungkizz" /></p>
 <div align=center>
   <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
