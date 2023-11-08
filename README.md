@@ -6,7 +6,7 @@
  <img src="https://user-images.githubusercontent.com/130020647/261239375-99eec636-6afe-478e-9c03-0228f5453231.jpg" width="80%" >
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Seungkizz&label=Profile%20views&color=0e75b6&style=flat" alt="Seungkizz" /></p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=Seungkizz&label=Profile%20views&color=0e75b6&style=flat" alt="Seungkizz" /></p>-->
 <h3 align=center> 🔥 My Skill 🔥</h3>
 
 <div align=center>
